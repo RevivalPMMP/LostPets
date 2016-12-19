@@ -1,4 +1,4 @@
-1name: LostPets
+name: LostPets
 main: LostTeam\Main
 version: 0.8.1_BETA
 api: [1.13.1, 2.1.0]
