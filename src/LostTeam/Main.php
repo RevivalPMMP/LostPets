@@ -314,7 +314,7 @@ class Main extends PluginBase implements Listener {
 		$entity = $event->getEntity();
 		$attacker = $entity->getLastDamageCause();
 		if($entity instanceof Pets) {
-			$entity->getOwner()->sendMessage("Your Pet, "$entity->getNameTag().", died from a(n) ".$attacker->getName()."!");
+			$entity->getOwner()->sendMessage("Your Pet, ".$entity->getNameTag().", died from a(n) ".$attacker->getName()."!");
 			$this->disablePet($entity->getOwner());
 			return;
 		}
