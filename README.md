@@ -22,5 +22,5 @@
 
 ## Disclaimer
 ##### This plugin is only for php7 Servers
-##### This plugin is fully re-written by The LostTeam Programming Orginization.
+##### This plugin is fully re-written by The LostTeam Programming Organization.
 ##### This plugin was originally from WilliamTDR's Plugin "LBCore", and fully converted to standalone plugin.
