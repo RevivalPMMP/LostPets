@@ -1,5 +1,4 @@
 # Pets
-[![Gitter](https://badges.gitter.im/LostTeam/Pets.svg)](https://gitter.im/LostTeam/Pets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ### Primary Test Server:
 ##### Ip: YourCraftZ.mcpe.me
 ##### Port: 19133
@@ -22,5 +21,5 @@
 
 ## Disclaimer
 ##### This plugin is only for php7 Servers
-##### This plugin is fully re-written by The LostTeam Programming Organization.
+##### This plugin is fully re-written by The LostTeam Programming Organization, now being Revived by Revival PMMP
 ##### This plugin was originally from WilliamTDR's Plugin "LBCore", and fully converted to standalone plugin.
