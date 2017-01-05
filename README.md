@@ -4,6 +4,11 @@
 ##### Port: 19133
 ###### NOTE: Usually inactive, may be used when jasonwynn10 is online
 
+### Primary Test Server:
+##### Ip: insanenetwork.ml
+##### Port: 19132
+###### NOTE: not always active, but most of the day
+
 ### Features
 - Pets follow their owners
 - Pets are interchangeable
