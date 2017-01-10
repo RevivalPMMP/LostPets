@@ -1,3 +1,4 @@
+[![Poggit-CI](https://poggit.pmmp.io/ci.badge/RevivalPMMP/LostPets/LostPets)](https://poggit.pmmp.io/ci/RevivalPMMP/LostPets/LostPets)
 # Pets
 ### Primary Test Server:
 ##### Ip: YourCraftZ.mcpe.me
